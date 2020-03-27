@@ -1,0 +1,4 @@
+if(Auth::user() != null)
+
+* * * * * cd /usr/bin/php /home/u572764790/ && php artisan schedule:run >> /dev/null 2>&1
+
